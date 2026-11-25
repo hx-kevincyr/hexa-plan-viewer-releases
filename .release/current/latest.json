@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0",
+  "notes": "HEXA 0.3.0 — application Windows avec mémoire locale, annotations et mises à jour signées.",
+  "pub_date": "2026-11-25T02:48:58.060Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/hx-kevincyr/hexa-plan-viewer-releases/releases/download/desktop-v0.3.0/HEXA-Plan-Viewer-0.3.0-x64-Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVjlQLzQ0eGNDTVFSSHVkeTZjT3N4Ly9WYXVqTmNrZWdiMGhLNExtNXpoMjU5bXVRb0R2WWpmNWdtSHg3MkJpTWtoZzNSZ0VaT05JakhoL0lZYng3bUZPRzIzTllmOVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTc0OTM3CWZpbGU6SEVYQSBQbGFuIFZpZXdlcl8wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKVFMydVJZVHd0MEdadXNTamxTOEUvbytsTkJjZmwxWEN0d3VOVjFtVEZJeExacWFMVm02UlNuZHJTd1RaTGNkejNDa2hLR01MdmlkNzByK1hDVHN5Q1E9PQo="
+    }
+  }
+}
